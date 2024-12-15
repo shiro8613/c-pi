@@ -1,3 +1,4 @@
+//参考: http://den3.net/activity_diary/2022/01/09/5282/
 #include <stdio.h>
 #include <math.h>
 #include <string>
